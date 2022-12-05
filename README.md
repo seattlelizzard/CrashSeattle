@@ -30,10 +30,10 @@ To learn more about the dataset, please see the pdf.
 [(Back to top)](#table-of-contents)
 
 We will be conducting a classfication analysis on our data to try and create a predictor of the number of collisions of a given severity. We will be analyzing 5 variables with a mix of continuous and categorical values:
-Vehicle Count: Continuous
-Weather: Categorical with 12 variables
-Light Condition: Categorical with 9 variables
-Road Condition: Categorical with 9 variables
+Vehicle Count: Continuous,
+Weather: Categorical with 12 variables,
+Light Condition: Categorical with 9 variables,
+Road Condition: Categorical with 9 variables,
 Junction Type: Categorical with 7 variables
 
 
