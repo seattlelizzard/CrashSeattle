@@ -10,7 +10,10 @@ In 2015 Seattle created a “Vision Zero” plan to eliminate “traffic deaths 
 - [Modeling Question](#modeling-question)
 - [Methods Used](#methods-used)
 - [Technologies](#technologies)
+- [Slides](#Slides)
+- [References](#References)
 - [Authors](#authors)
+
 
 
 
@@ -59,6 +62,12 @@ Junction Type: Categorical with 7 variables
 * Pandas, Jupyter
 * Folium Library : To plot the longitude and latitude of the crash location on the Seattle city map
 
+
+## Slides
+[(Back to top)](#table-of-contents)
+
+## Refrences
+[(Back to top)](#table-of-contents)
 
 
 ## Authors
