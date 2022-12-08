@@ -10,10 +10,10 @@ In 2015 Seattle created a “Vision Zero” plan to eliminate “traffic deaths 
 - [Modeling Question](#modeling-question)
 - [Methods Used](#methods-used)
 - [Technologies](#technologies)
+- [Required Packages](#required-packages)
 - [Slides](#Slides)
 - [Citations](#Citations)
 - [Authors](#authors)
-
 
 
 
@@ -21,10 +21,10 @@ In 2015 Seattle created a “Vision Zero” plan to eliminate “traffic deaths 
 [(Back to top)](#table-of-contents)
 
 
-Dataset is taken from the City of Seattle that includes information about crashes and weather at the time of the crash. 
+The data is from the City of Seattle and includes information about crashes and weather at the time of the crash. 
 [Collision Data from Seattle.gov site](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::sdot-collisions-all-years/explore?location=47.641550%2C-122.345216%2C19.74&showTable=true)
 
-To learn more about the dataset, please see the pdf.
+To learn more about the dataset, please see this pdf.
 
 [Dataset description](https://www.seattle.gov/Documents/Departments/SDOT/GIS/Collisions_OD.pdf)
 
@@ -32,12 +32,7 @@ To learn more about the dataset, please see the pdf.
 ## Modeling Question
 [(Back to top)](#table-of-contents)
 
-We will be conducting a classfication analysis on our data to try and create a predictor of the number of collisions of a given severity. We will be analyzing 5 variables with a mix of continuous and categorical values:
-Vehicle Count: Continuous,
-Weather: Categorical with 12 variables,
-Light Condition: Categorical with 9 variables,
-Road Condition: Categorical with 9 variables,
-Junction Type: Categorical with 7 variables
+We will be conducting a classfication analysis on our data to try and predict the number of collisions of a given severity. We will be analyzing  variables with a mix of continuous and categorical values:
 
 
 ## Methods Used
@@ -48,7 +43,8 @@ Junction Type: Categorical with 7 variables
 * Predictive Modeling
 * Multi-Class Classification
 * Random Search Cross Validation
-* Lasso and Rigde Regression
+* Lasso and Ride
+* Regression
 * Random Forest Tree
 
 
@@ -56,11 +52,19 @@ Junction Type: Categorical with 7 variables
 [(Back to top)](#table-of-contents)
 
 * Python
-* Seaborn
-* Matplotlib
-* Pandas, Jupyter
-* Folium Library : To plot the longitude and latitude of the crash location on the Seattle city map
+* Google Colab
+* Jupyter Notebooks
 
+## Required Packages
+[(Back to top)](#table-of-contents)
+
+* Follium Library
+* graphviz
+* Matplotlib
+* missingno
+* Pandas
+* seaborn
+* sikit learn/scipy
 
 ## Slides
 [(Back to top)](#table-of-contents)
