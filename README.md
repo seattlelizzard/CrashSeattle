@@ -11,7 +11,7 @@ In 2015 Seattle created a “Vision Zero” plan to eliminate “traffic deaths 
 - [Methods Used](#methods-used)
 - [Technologies](#technologies)
 - [Slides](#Slides)
-- [References](#References)
+- [Citations](#Citations)
 - [Authors](#authors)
 
 
@@ -66,9 +66,15 @@ Junction Type: Categorical with 7 variables
 ## Slides
 [(Back to top)](#table-of-contents)
 
-## Refrences
+## Citations
 [(Back to top)](#table-of-contents)
 
+ Anderson, Hans and Denkman, Libby. “Even with Vision Zero, traffic fatalities remain high in Seattle.” KUOW, https://www.kuow.org/stories/even-with-vision-zero-traffic-fatalities-remain-high-in-Seattle. Accessed 15 October 2022.
+City of Seattle, Department of Transportation. Collisions- All Years. City of Seattle, n.d. https://www.seattle.gov/Documents/Departments/SDOT/GIS/Collisions_OD.pdf 
+City of Seattle, Department of Transportation. 2021 Traffic Report. City of Seattle, February 2022. 
+“Demystifying the Safe Systems Approach.”  Vision Zero Network, https://visionzeronetwork.org/resources/demystifying-the-safe-system-approach/. Accessed 15 October 2022.
+“Speed Limits.” City of Seattle, https://www.seattle.gov/transportation/projects-and-programs/safety-first/vision-zero/speedlimits. Accessed 15 October 2022. 
+“Vision Zero.” City of Seattle, https://www.seattle.gov/transportation/projects-and-programs/safety-first/vision-zero. Accessed 15 October 2022. 
 
 ## Authors
 [(Back to top)](#table-of-contents)
