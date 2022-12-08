@@ -50,7 +50,6 @@ Junction Type: Categorical with 7 variables
 * Random Search Cross Validation
 * Lasso and Rigde Regression
 * Random Forest Tree
-* XG Boost
 
 
 ## Technologies
